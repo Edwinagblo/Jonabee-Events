@@ -1,0 +1,21 @@
+/* body{
+    background-color: rgb(224, 143, 143);
+} */
+
+#links a{
+    text-decoration: none;
+    color: white;
+    padding-left: 70px;
+}
+
+header{
+    background-color: rgb(138, 117, 93);
+    height: 70px;
+}
+
+footer{
+    background-color: rgb(138, 117, 93);
+    height: 400px;
+}
+
+
